@@ -1,4 +1,4 @@
-# Distributed File Storage System
+# Distributed File Storage System 
 
 A  Python-based distributed file system  featuring file storage using  Two-Phase Commit protocol. This implementation demonstrates core distributed systems concepts including chunk-based storage, fault tolerance, and coordinated replication.
 
